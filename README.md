@@ -1,5 +1,5 @@
 # angular-automation-ngWebdriver
-### This is simple demo on how to use NGWEbdriver along with WebDriver for automating angular based web application
+### This is simple demo on how to use ngWebdriver along with WebDriver for automating angular based web application
 
 Setup Steps :
 - I have used one simple angular based application from : https://github.com/juliemr/protractor-demo
