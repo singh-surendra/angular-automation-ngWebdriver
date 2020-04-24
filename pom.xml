@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>angular-automation-NGWebdriver</artifactId>
     <version>1.0-SNAPSHOT</version>
-    
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <aspectj.version>1.8.10</aspectj.version>
@@ -85,12 +85,12 @@
     </build>
 
     <dependencies>
-
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>3.14.0</version>
+            <version>3.141.59</version>
         </dependency>
+
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
@@ -145,6 +145,18 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.9</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.paulhammant</groupId>
+            <artifactId>ngwebdriver</artifactId>
+            <version>1.1.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>3.8.1</version>
         </dependency>
     </dependencies>
 

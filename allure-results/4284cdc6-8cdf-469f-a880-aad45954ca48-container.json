@@ -1,0 +1,1 @@
+{"uuid":"4284cdc6-8cdf-469f-a880-aad45954ca48","name":"angular-automation-NGWebdriver","children":["5bd38653-b622-499d-89be-9b7d9d2a800d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1587739032642,"stop":1587739041424}],"afters":[],"links":[],"start":1587739032597,"stop":1587739044029}
