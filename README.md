@@ -1,4 +1,4 @@
-# angular-automation-NGWebdriver
+# angular-automation-ngWebdriver
 ### This is simple demo on how to use NGWEbdriver along with WebDriver for automating angular based web application
 
 Setup Steps :
